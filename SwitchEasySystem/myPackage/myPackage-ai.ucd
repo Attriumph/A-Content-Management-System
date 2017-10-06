@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="myPackage-ai" id="myPackage" metadata="uml2-1.0" initialized="true" scrolledX="402" scrolledY="873" tag="1000" key="32303036313030362050726F7669646572416E645265636569766572322F59616E">
+  <children xsi:type="editmodel:ClassEditModel" name="MyTopFrame" location="1004,791" size="190,241" id="myPackage/MyTopFrame" runTimeClassModel="jButton2,main([Ljava.lang.String;),jButton1,MyTopFrame(),jLabel1,image,initGUI(),containerOfItems,containerOfItemNames">
+    <children xsi:type="editmodel:CompartmentEditModel" size="167,108">
+      <children xsi:type="editmodel:AttributeEditModel" name="containerOfItemNames" id="myPackage/MyTopFrame#containerOfItemNames"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="containerOfItems" id="myPackage/MyTopFrame#containerOfItems"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="image" id="myPackage/MyTopFrame#image"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButton1" id="myPackage/MyTopFrame#jButton1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButton2" id="myPackage/MyTopFrame#jButton2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel1" id="myPackage/MyTopFrame#jLabel1"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="125,54">
+      <children xsi:type="editmodel:MethodEditModel" name="MyTopFrame" id="myPackage/MyTopFrame#MyTopFrame()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="initGUI" id="myPackage/MyTopFrame#initGUI()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="myPackage/MyTopFrame#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ReceiverDialog" location="385,791" size="288,385" id="myPackage/ReceiverDialog" runTimeClassModel="refreshButton,jLabel4,brandText,weightText,jScrollPane1,jLabel1,jLabel3,itemList,deleteButton,itemNameContainer,ReceiverDialog(Ljava.util.Vector;Ljava.util.Vector;),jLabel2,nameText,jButton1,initGUI(),itemContainer">
+    <children xsi:type="editmodel:CompartmentEditModel" size="150,252">
+      <children xsi:type="editmodel:AttributeEditModel" name="brandText" id="myPackage/ReceiverDialog#brandText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="deleteButton" id="myPackage/ReceiverDialog#deleteButton"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="itemContainer" id="myPackage/ReceiverDialog#itemContainer"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="itemList" id="myPackage/ReceiverDialog#itemList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="itemNameContainer" id="myPackage/ReceiverDialog#itemNameContainer"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButton1" id="myPackage/ReceiverDialog#jButton1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel1" id="myPackage/ReceiverDialog#jLabel1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel2" id="myPackage/ReceiverDialog#jLabel2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel3" id="myPackage/ReceiverDialog#jLabel3"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel4" id="myPackage/ReceiverDialog#jLabel4"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="nameText" id="myPackage/ReceiverDialog#nameText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="refreshButton" id="myPackage/ReceiverDialog#refreshButton"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="weightText" id="myPackage/ReceiverDialog#weightText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jScrollPane1" id="myPackage/ReceiverDialog#jScrollPane1"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="265,36">
+      <children xsi:type="editmodel:MethodEditModel" name="ReceiverDialog" id="myPackage/ReceiverDialog#ReceiverDialog(Ljava.util.Vector;Ljava.util.Vector;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="initGUI" id="myPackage/ReceiverDialog#initGUI()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ProviderDialog" location="50,791" size="285,385" id="myPackage/ProviderDialog" runTimeClassModel="jLabel4,brandText,jList1,weightText,jLabel1,cancelButton,jLabel3,deleteButton,updateList(),itemNameContainer,jLabel2,nameText,jButton1,addButton,initGUI(),itemContainer,ProviderDialog(Ljava.util.Vector;Ljava.util.Vector;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="150,252">
+      <children xsi:type="editmodel:AttributeEditModel" name="addButton" id="myPackage/ProviderDialog#addButton"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="brandText" id="myPackage/ProviderDialog#brandText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cancelButton" id="myPackage/ProviderDialog#cancelButton"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="deleteButton" id="myPackage/ProviderDialog#deleteButton"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="itemContainer" id="myPackage/ProviderDialog#itemContainer"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="itemNameContainer" id="myPackage/ProviderDialog#itemNameContainer"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jButton1" id="myPackage/ProviderDialog#jButton1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel1" id="myPackage/ProviderDialog#jLabel1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel2" id="myPackage/ProviderDialog#jLabel2"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel3" id="myPackage/ProviderDialog#jLabel3"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jLabel4" id="myPackage/ProviderDialog#jLabel4"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="jList1" id="myPackage/ProviderDialog#jList1"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="nameText" id="myPackage/ProviderDialog#nameText"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="weightText" id="myPackage/ProviderDialog#weightText"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="262,54">
+      <children xsi:type="editmodel:MethodEditModel" name="ProviderDialog" id="myPackage/ProviderDialog#ProviderDialog(Ljava.util.Vector;Ljava.util.Vector;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="initGUI" id="myPackage/ProviderDialog#initGUI()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="updateList" id="myPackage/ProviderDialog#updateList()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.10/@sourceConnections.1 //@children.9/@sourceConnections.1 //@children.8/@sourceConnections.1 //@children.7/@sourceConnections.1" name="Car" location="1137,50" size="274,763" id="myPackage/Car" runTimeClassModel="getTransmission(),getWheel(),clearWheel(),containsAllWheel(Ljava.util.Collection;),wheelSize(),getModel(),setModel(Ljava.lang.String;),wheelToArray(),setTransmission(LmyPackage.Transmission;),setYear(I),getWheel(I),addWheel(LmyPackage.Wheel;),getMake(),body,wheelToArray([LmyPackage.Wheel;),setWheel(Ljava.util.Vector;),removeWheel(LmyPackage.Wheel;),getEngine(),engine,setOwner(Ljava.lang.String;),setBody(LmyPackage.Body;),transmission,setEngine(LmyPackage.Engine;),isWheelEmpty(),owner,getYear(),make,removeWheel(I),containsWheel(LmyPackage.Wheel;),setMake(Ljava.lang.String;),getBody(),getOwner(),wheelIterator(),getWeight(),wheel,year,addWheel(ILmyPackage.Wheel;),model">
+    <children xsi:type="editmodel:CompartmentEditModel" size="150,144">
+      <children xsi:type="editmodel:AttributeEditModel" name="body" id="myPackage/Car@car+myPackage/Body@body|myPackage/Body#body"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="engine" id="myPackage/Car@car+myPackage/Engine@engine|myPackage/Engine#engine"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="make" id="myPackage/Car#make"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="model" id="myPackage/Car#model"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="owner" id="myPackage/Car#owner"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="transmission" id="myPackage/Car@car+myPackage/Transmission@transmission|myPackage/Transmission#transmission"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="wheel" id="myPackage/Car@car+myPackage/Wheel@wheel|myPackage/Wheel#wheel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="year" id="myPackage/Car#year"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="251,540">
+      <children xsi:type="editmodel:MethodEditModel" name="addWheel" id="myPackage/Car#addWheel(ILmyPackage.Wheel;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="addWheel" id="myPackage/Car#addWheel(LmyPackage.Wheel;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="clearWheel" id="myPackage/Car#clearWheel()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="containsAllWheel" id="myPackage/Car#containsAllWheel(Ljava.util.Collection;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="containsWheel" id="myPackage/Car#containsWheel(LmyPackage.Wheel;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getBody" id="myPackage/Car#getBody()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getEngine" id="myPackage/Car#getEngine()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getMake" id="myPackage/Car#getMake()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getModel" id="myPackage/Car#getModel()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setOwner" id="myPackage/Car#setOwner(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getTransmission" id="myPackage/Car#getTransmission()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getWeight" id="myPackage/Car#getWeight()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getWheel" id="myPackage/Car#getWheel()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getWheel" id="myPackage/Car#getWheel(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getYear" id="myPackage/Car#getYear()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isWheelEmpty" id="myPackage/Car#isWheelEmpty()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="removeWheel" id="myPackage/Car#removeWheel(LmyPackage.Wheel;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="removeWheel" id="myPackage/Car#removeWheel(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setBody" id="myPackage/Car#setBody(LmyPackage.Body;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setEngine" id="myPackage/Car#setEngine(LmyPackage.Engine;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setMake" id="myPackage/Car#setMake(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setModel" id="myPackage/Car#setModel(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getOwner" id="myPackage/Car#getOwner()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setTransmission" id="myPackage/Car#setTransmission(LmyPackage.Transmission;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setWheel" id="myPackage/Car#setWheel(Ljava.util.Vector;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setYear" id="myPackage/Car#setYear(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="wheelIterator" id="myPackage/Car#wheelIterator()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="wheelSize" id="myPackage/Car#wheelSize()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="wheelToArray" id="myPackage/Car#wheelToArray()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="wheelToArray" id="myPackage/Car#wheelToArray([LmyPackage.Wheel;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:InterfaceEditModel" targetConnections="//@children.5/@sourceConnections.0 //@children.11/@sourceConnections.0" name="RowProcessor" location="723,791" size="231,111" id="myPackage/RowProcessor" runTimeClassModel="process(Lorg.apache.poi.hssf.usermodel.HSSFSheet;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="208,18">
+      <children xsi:type="editmodel:MethodEditModel" name="process" id="myPackage/RowProcessor#process(Lorg.apache.poi.hssf.usermodel.HSSFSheet;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ComponentProcessor" location="790,971" size="231,205" id="myPackage/ComponentProcessor" runTimeClassModel="cOLUMN_WEIGHT,thisProcessor,cOLUMN_NAME,cOLUMN_BRAND,getInstance(),ComponentProcessor(),process(Lorg.apache.poi.hssf.usermodel.HSSFSheet;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="196,72">
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_BRAND" id="myPackage/ComponentProcessor#cOLUMN_BRAND"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_NAME" id="myPackage/ComponentProcessor#cOLUMN_NAME"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_WEIGHT" id="myPackage/ComponentProcessor#cOLUMN_WEIGHT"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="thisProcessor" id="myPackage/ComponentProcessor#thisProcessor"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="208,54">
+      <children xsi:type="editmodel:MethodEditModel" name="ComponentProcessor" id="myPackage/ComponentProcessor#ComponentProcessor()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getInstance" id="myPackage/ComponentProcessor#getInstance()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="process" id="myPackage/ComponentProcessor#process(Lorg.apache.poi.hssf.usermodel.HSSFSheet;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="myPackage/RowProcessor&lt;-myPackage/ComponentProcessor" source="//@children.5" target="//@children.4" targetEnd="//@children.5/@sourceConnections.0/@children.1" sourceEnd="//@children.5/@sourceConnections.0/@children.0" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="81,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="148,111"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.8/@sourceConnections.0" name="Component" location="240,20" size="293,277" id="myPackage/Component" runTimeClassModel="setWeight(D),brand,getWeight(),getName(),Component(DLjava.lang.String;Ljava.lang.String;),setName(Ljava.lang.String;),setBrand(Ljava.lang.String;),getBrand(),name,Component(),weight">
+    <children xsi:type="editmodel:CompartmentEditModel" size="90,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="brand" id="myPackage/Component#brand"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="name" id="myPackage/Component#name"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="weight" id="myPackage/Component#weight"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="270,144">
+      <children xsi:type="editmodel:MethodEditModel" name="Component" id="myPackage/Component#Component()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Component" id="myPackage/Component#Component(DLjava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getBrand" id="myPackage/Component#getBrand()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getName" id="myPackage/Component#getName()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getWeight" id="myPackage/Component#getWeight()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setBrand" id="myPackage/Component#setBrand(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setName" id="myPackage/Component#setName(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setWeight" id="myPackage/Component#setWeight(D)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Wheel" location="306,377" size="162,187" id="myPackage/Wheel" runTimeClassModel="setCar(LmyPackage.Car;),getCar(),car,setSpec(Ljava.lang.String;),spec,getSpec()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="77,36">
+      <children xsi:type="editmodel:AttributeEditModel" name="car" id="myPackage/Car@car+myPackage/Wheel@wheel|myPackage/Car#car"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="spec" id="myPackage/Wheel#spec"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="139,72">
+      <children xsi:type="editmodel:MethodEditModel" name="getCar" id="myPackage/Wheel#getCar()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSpec" id="myPackage/Wheel#getSpec()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCar" id="myPackage/Wheel#setCar(LmyPackage.Car;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setSpec" id="myPackage/Wheel#setSpec(Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="myPackage/Component&lt;-myPackage/Wheel" source="//@children.7" target="//@children.8/@sourceConnections.0" targetEnd="//@children.7/@sourceConnections.0/@children.1" sourceEnd="//@children.7/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="81,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" name="isPartOf" autoLocated="true" id="myPackage/Car@car+myPackage/Wheel@wheel" source="//@children.7" target="//@children.3" targetEnd="//@children.7/@sourceConnections.1/@children.2" label="//@children.7/@sourceConnections.1/@children.0" sourceEnd="//@children.7/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="isPartOf" size="39,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="wheel" location="162,93" id="myPackage/Car@car+myPackage/Wheel@wheel|myPackage/Wheel#wheel" attachSource="true" multiplicityLabel="//@children.7/@sourceConnections.1/@children.1/@children.1" roleLabel="//@children.7/@sourceConnections.1/@children.1/@children.0" navigable="true" orderingKind="1">
+        <children xsi:type="editmodel:LabelEditModel" name=" - wheel" location="475,449" size="40,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="*" location="475,477" size="4,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="car" location="0,420" id="myPackage/Car@car+myPackage/Wheel@wheel|myPackage/Car#car" multiplicityLabel="//@children.7/@sourceConnections.1/@children.2/@children.1" roleLabel="//@children.7/@sourceConnections.1/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - car" location="1104,449" size="26,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="1112,477" size="18,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Engine" location="10,370" size="271,241" id="myPackage/Engine" runTimeClassModel="getCar(),setCar(LmyPackage.Car;),horsePower,numberOfCylinder,car,setHorsePower(D),setNumberOfCylinder(I),getNumberOfCylinder(),getHorsePower()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="123,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="car" id="myPackage/Car@car+myPackage/Engine@engine|myPackage/Car#car"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="horsePower" id="myPackage/Engine#horsePower"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="numberOfCylinder" id="myPackage/Engine#numberOfCylinder"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="248,108">
+      <children xsi:type="editmodel:MethodEditModel" name="getCar" id="myPackage/Engine#getCar()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getHorsePower" id="myPackage/Engine#getHorsePower()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getNumberOfCylinder" id="myPackage/Engine#getNumberOfCylinder()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCar" id="myPackage/Engine#setCar(LmyPackage.Car;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setHorsePower" id="myPackage/Engine#setHorsePower(D)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setNumberOfCylinder" id="myPackage/Engine#setNumberOfCylinder(I)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.7/@sourceConnections.0 //@children.9/@sourceConnections.0 //@children.10/@sourceConnections.0" autoLocated="true" id="myPackage/Component&lt;-myPackage/Engine" source="//@children.8" target="//@children.6" targetEnd="//@children.8/@sourceConnections.0/@children.1" sourceEnd="//@children.8/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="135,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="146,277" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" name="isPartOf" autoLocated="true" id="myPackage/Car@car+myPackage/Engine@engine" source="//@children.8" target="//@children.3" targetEnd="//@children.8/@sourceConnections.1/@children.2" label="//@children.8/@sourceConnections.1/@children.0" sourceEnd="//@children.8/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="isPartOf" size="39,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="engine" location="271,120" id="myPackage/Car@car+myPackage/Engine@engine|myPackage/Engine#engine" attachSource="true" multiplicityLabel="//@children.8/@sourceConnections.1/@children.1/@children.1" roleLabel="//@children.8/@sourceConnections.1/@children.1/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - engine" location="288,469" size="42,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="288,497" size="18,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="car" location="0,440" id="myPackage/Car@car+myPackage/Engine@engine|myPackage/Car#car" multiplicityLabel="//@children.8/@sourceConnections.1/@children.2/@children.1" roleLabel="//@children.8/@sourceConnections.1/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - car" location="1104,469" size="26,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="1112,497" size="18,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Transmission" location="510,370" size="255,241" id="myPackage/Transmission" runTimeClassModel="setCar(LmyPackage.Car;),getCar(),setNumberOfSpeed(I),setTransType(Ljava.lang.String;),getNumberOfSpeed(),getTransType(),car,numberOfSpeed,transType">
+    <children xsi:type="editmodel:CompartmentEditModel" size="115,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="car" id="myPackage/Car@car+myPackage/Transmission@transmission|myPackage/Car#car"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="numberOfSpeed" id="myPackage/Transmission#numberOfSpeed"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="transType" id="myPackage/Transmission#transType"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="232,108">
+      <children xsi:type="editmodel:MethodEditModel" name="getCar" id="myPackage/Transmission#getCar()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getNumberOfSpeed" id="myPackage/Transmission#getNumberOfSpeed()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getTransType" id="myPackage/Transmission#getTransType()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCar" id="myPackage/Transmission#setCar(LmyPackage.Car;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setNumberOfSpeed" id="myPackage/Transmission#setNumberOfSpeed(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setTransType" id="myPackage/Transmission#setTransType(Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="myPackage/Component&lt;-myPackage/Transmission" source="//@children.9" target="//@children.8/@sourceConnections.0" targetEnd="//@children.9/@sourceConnections.0/@children.1" sourceEnd="//@children.9/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="127,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" name="isPartOf" autoLocated="true" id="myPackage/Car@car+myPackage/Transmission@transmission" source="//@children.9" target="//@children.3" targetEnd="//@children.9/@sourceConnections.1/@children.2" label="//@children.9/@sourceConnections.1/@children.0" sourceEnd="//@children.9/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="isPartOf" size="39,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="transmission" location="255,120" id="myPackage/Car@car+myPackage/Transmission@transmission|myPackage/Transmission#transmission" attachSource="true" multiplicityLabel="//@children.9/@sourceConnections.1/@children.1/@children.1" roleLabel="//@children.9/@sourceConnections.1/@children.1/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - transmission" location="772,469" size="71,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="772,497" size="18,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="car" location="0,440" id="myPackage/Car@car+myPackage/Transmission@transmission|myPackage/Car#car" multiplicityLabel="//@children.9/@sourceConnections.1/@children.2/@children.1" roleLabel="//@children.9/@sourceConnections.1/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - car" location="1104,469" size="26,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="1112,497" size="18,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Body" location="828,377" size="210,187" id="myPackage/Body" runTimeClassModel="getCar(),setCar(LmyPackage.Car;),car,bodyType,setBodyType(Ljava.lang.String;),getBodyType()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="101,36">
+      <children xsi:type="editmodel:AttributeEditModel" name="bodyType" id="myPackage/Body#bodyType"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="car" id="myPackage/Car@car+myPackage/Body@body|myPackage/Car#car"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="187,72">
+      <children xsi:type="editmodel:MethodEditModel" name="getBodyType" id="myPackage/Body#getBodyType()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getCar" id="myPackage/Body#getCar()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setBodyType" id="myPackage/Body#setBodyType(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCar" id="myPackage/Body#setCar(LmyPackage.Car;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="myPackage/Component&lt;-myPackage/Body" source="//@children.10" target="//@children.8/@sourceConnections.0" targetEnd="//@children.10/@sourceConnections.0/@children.1" sourceEnd="//@children.10/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="105,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="editmodel:AssociationEditModel" name="isPartOf" autoLocated="true" id="myPackage/Car@car+myPackage/Body@body" source="//@children.10" target="//@children.3" targetEnd="//@children.10/@sourceConnections.1/@children.2" label="//@children.10/@sourceConnections.1/@children.0" sourceEnd="//@children.10/@sourceConnections.1/@children.1" connectionRouterKind="Manhattan">
+      <children xsi:type="editmodel:WireLabelEditModel" name="isPartOf" size="39,14" fontInfo="Arial-8-0" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="body" location="210,93" id="myPackage/Car@car+myPackage/Body@body|myPackage/Body#body" attachSource="true" multiplicityLabel="//@children.10/@sourceConnections.1/@children.1/@children.1" roleLabel="//@children.10/@sourceConnections.1/@children.1/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - body" location="1045,449" size="34,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="1045,477" size="18,14" fontInfo="Arial-8-0" anchorKind="FirstPart"/>
+      </children>
+      <children xsi:type="editmodel:AssociationEndEditModel" name="car" location="0,420" id="myPackage/Car@car+myPackage/Body@body|myPackage/Car#car" multiplicityLabel="//@children.10/@sourceConnections.1/@children.2/@children.1" roleLabel="//@children.10/@sourceConnections.1/@children.2/@children.0" navigable="true">
+        <children xsi:type="editmodel:LabelEditModel" name=" - car" location="1104,449" size="26,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+        <children xsi:type="editmodel:LabelEditModel" name="0..1" location="1112,477" size="18,14" fontInfo="Arial-8-0" anchorKind="LastPart"/>
+      </children>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="CarProcessor" location="650,1040" size="231,223" id="myPackage/CarProcessor" runTimeClassModel="cOLUMN_MODEL,thisProcessor,cOLUMN_YEAR,getInstance(),cOLUMN_OWNER,CarProcessor(),cOLUMN_MAKE,process(Lorg.apache.poi.hssf.usermodel.HSSFSheet;)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="159,90">
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_MAKE" id="myPackage/CarProcessor#cOLUMN_MAKE"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="thisProcessor" id="myPackage/CarProcessor#thisProcessor"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_MODEL" id="myPackage/CarProcessor#cOLUMN_MODEL"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_OWNER" id="myPackage/CarProcessor#cOLUMN_OWNER"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cOLUMN_YEAR" id="myPackage/CarProcessor#cOLUMN_YEAR"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="208,54">
+      <children xsi:type="editmodel:MethodEditModel" name="getInstance" id="myPackage/CarProcessor#getInstance()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="CarProcessor" id="myPackage/CarProcessor#CarProcessor()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="process" id="myPackage/CarProcessor#process(Lorg.apache.poi.hssf.usermodel.HSSFSheet;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="myPackage/RowProcessor&lt;-myPackage/CarProcessor" source="//@children.11" target="//@children.4" targetEnd="//@children.11/@sourceConnections.0/@children.1" sourceEnd="//@children.11/@sourceConnections.0/@children.0" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="151,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="78,111"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterals="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" level="-1" showScope="InPackage" properties="wireOptions=3"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="10,10" gridOrigin="0,0" rulerUnit="pixel">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showMethodsParameterTypes="true" showMethodsReturnType="true" showMethodsParameterNames="true" showMethodsParameterKinds="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPrivateAttributes="true" showProtectedAttributes="true" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showProtectedMethods="true" showPublicMethods="true" showPackageMethods="true" showPrivateMethods="true" showStaticMethods="true" showProtectedInnerClasses="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showPrivateInnerClasses="true" showStaticInnerClasses="true" showInterfaceStereotype="true" showAssociationMember="true" showMethods="true" showAttributes="true" showLiterlas="true"/>
+</editmodel:ClassDiagramEditModel>
