@@ -1,6 +1,7 @@
 package myPackage;
 
 public class Accounts {
+@Lingquan
 private String accountname;
 private int passcode;
 private String type;
@@ -14,7 +15,7 @@ public Accounts(String accountname,int passcode,String type)
 	this.passcode=passcode;
 	this.type=type;
 }
-
+@Lingquan
 public boolean Accountscheck(String accountname,int passcode,String type)
 {
 if (this.accountname.equals(accountname)&&this.passcode==passcode&&this.type.equals(type))
