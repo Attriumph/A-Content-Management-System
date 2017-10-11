@@ -7,10 +7,6 @@ import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 
 
-/**
- * @author Sandarenu
- *
- */
 public class ComponentProcessor implements RowProcessor
 {	
 	//Row columns
@@ -23,22 +19,13 @@ public class ComponentProcessor implements RowProcessor
      */
 	private static ComponentProcessor thisProcessor;
 	
-	/**
-	 * Default constructor
-	 * Created on: Nov 8, 2007
-	 * @Author: Sandarenu
-	 */
+	
 	private ComponentProcessor()
 	{
 		//Private so no outside instantiation
 	}
 	
-	/**
-	 * Get an instance of this row processor.
-	 * Created on: Nov 8, 2007
-	 * @Author Sandarenu
-	 * @return instance of this row processor.
-	 */
+	
 	public static RowProcessor getInstance()
 	{
 		if(thisProcessor == null)
