@@ -17,4 +17,4 @@ Use Case
 
 ## 3 PERFORMANCE
 ![image](http://upload.ouliu.net/i/20180108160633fira7.jpeg)
-![image](http://upload.ouliu.net/][IMG]http://upload.ouliu.net/i/20180108160756vx2ff.jpeg[/IMG][/URL])
+![image](http://upload.ouliu.net/i/20180108160756vx2ff.jpeg)
