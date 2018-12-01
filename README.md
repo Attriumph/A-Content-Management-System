@@ -12,7 +12,7 @@ The motivation and objective of the system is to help relieve engineers’ workl
 In order to accomplish this project, we need to analyze the problem using Object-Oriented methodology. To be more specific, via following such method, we could write our problem statement, draw our use-case diagram and build our corresponding object model, dynamic model and so on. After the pre-works are completed, we then used Eclipse to build up our project via using Plug-in Swing.
 
 ## 2.DESIGN
-Use Case
+### 2.1 Use Case
 ![image](http://chuantu.biz/t6/200/1515399063x-1566688518.png)
 
 ## 3.PERFORMANCE
