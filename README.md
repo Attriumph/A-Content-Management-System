@@ -1,4 +1,4 @@
-# Switch Easy System
+# Switch Easy System —— A Content Management System
 
 ## 1.INTRODUCTION
 
