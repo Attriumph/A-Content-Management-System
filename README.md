@@ -2,6 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-orange.svg">
 <img src="https://img.shields.io/badge/release--date-11%2F2016-green.svg">	
 </p>
+
 # Switch Easy System —— A Content Management System
 
 ## 1.INTRODUCTION
